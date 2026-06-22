@@ -31,6 +31,14 @@ I support and maintain enterprise applications that solve real business problems
 
 ---
 
+## Projects
+
+- 🔧 **[Project Name]** — Brief description of what it does and the tech used. [View Repo](#)
+- 🔧 **[Project Name]** — Brief description of what it does and the tech used. [View Repo](#)
+- 🔧 **[Project Name]** — Brief description of what it does and the tech used. [View Repo](#)
+
+---
+
 ## Experience Highlights
 
 - 🏙️ **City of Coconut Creek** — Maintained citywide .NET applications across municipal departments; delivered Tier II/III production support
