@@ -2,6 +2,10 @@
 
 📍 **Boca Raton, Florida** | 💼 **Senior .NET Developer · 10+ Years**
 
+Hey, you found me — congrats on making it this far down the internet! I'm Kenny, a .NET developer who loves building cool stuff, whether it's desktop apps, web apps, or anything in between. These days I'm all about leveraging AI to grow faster, write better code, and pretend I knew the answer before I Googled it. If you like what you read, let's connect on LinkedIn. If not... swipe left. Just kidding, it's not that kind of app. 😄
+
+---
+
 I build enterprise applications that solve real business problems. I specialize in .NET ecosystems — from legacy Web Forms to modern ASP.NET Core APIs — and I take pride in writing clean, performant, maintainable code that teams can rely on.
 
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
