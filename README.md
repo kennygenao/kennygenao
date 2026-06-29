@@ -1,4 +1,4 @@
-# Greetings, I'm Kenneth 👋
+# Greetings, I'm Kenny 👋
 
 📍 **Boca Raton, Florida** | 💼 **Senior .NET Developer · 10+ Years**
 
