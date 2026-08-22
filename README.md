@@ -69,7 +69,7 @@ I support and maintain enterprise applications that solve real business problems
 - 🏅 **Microsoft Certified: Azure Fundamentals**
 - 🏅 **IT Specialist – Databases**
 - 🏅 **CompTIA A+**
-- 📊 **Microsoft Certified: Power BI Data Analyst Associate** *(In Progress)*
+- 📊 **Microsoft Certified: Power BI Data Analyst Associate**
 
 ---
 
